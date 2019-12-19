@@ -7,15 +7,6 @@
       <change afterPath="$PROJECT_DIR$/../../interest_mall/server/web/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../interest_mall/server/web/src/main/java/com/mall/ServerCenterApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../interest_mall/server/web/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shawwang/bio/SocketClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shawwang/bio/SocketServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shawwang/nio/NIOServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shawwang/nio/NioClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/shawwang/bio/SocketClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/shawwang/bio/SocketServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/shawwang/nio/NIOServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/shawwang/nio/NioClient.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../miaosha/src/main/java/com/shawwang/miaosha/MiaoShaApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../miaosha/src/main/java/com/shawwang/miaosha/common/Result.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../miaosha/src/main/java/com/shawwang/miaosha/common/ResultEnum.java" afterDir="false" />
@@ -105,11 +96,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/shawwang/nio/NIOServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1425">
-              <caret line="57" column="36" lean-forward="true" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -381,12 +369,12 @@
       <option name="presentableId" value="Default" />
       <updated>1576641635247</updated>
       <workItem from="1576641640950" duration="9647000" />
-      <workItem from="1576719704295" duration="915000" />
+      <workItem from="1576719704295" duration="1206000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10562000" />
+    <option name="totallyTimeSpent" value="10853000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -529,13 +517,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/shawwang/nio/NIOServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="57" column="36" lean-forward="true" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
         </state>
       </provider>
     </entry>
